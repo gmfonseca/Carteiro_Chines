@@ -11,6 +11,7 @@ public class Main {
         G.printCPT(0); // print it, starting from vertex 0
         System.out.println("Cost = " + G.cost());
         OpenCPP.test();
+        System.out.println("\nTempo de execução: " + OpenCPP.timer.getTime() + "ms");
     }
 
 }

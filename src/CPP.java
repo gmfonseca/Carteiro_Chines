@@ -2,11 +2,10 @@
  * Class for finding and printing the optimal Chinese Postman tour of multidigraphs.
  * For more details, read http://www.uclic.ucl.ac.uk/harold/cpp.
  *
- * @author Harold Thimbleby, 2001, 2, 3
+ * @author Harold Thimbleby, 2001, 2, 3.
+ * Adaptado para experimentos computacionais.
+ *
  */
-
-// Chinese Postman Code
-// Harold Thimbleby, 2001-3
 
 import java.util.*;
 
